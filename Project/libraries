@@ -1,1 +1,26 @@
+ 🧠 Machine Learning & Deep Learning
+scikit-learn : For traditional ML models, metrics, and preprocessing.
+tensorflow / keras : For building and training deep learning models.
+torch (PyTorch): An alternative to TensorFlow for deep learning.
+
+ 📊 Data Handling & Visualization
+numpy : For numerical operations and arrays.
+pandas : For data manipulation and analysis.
+matplotlib.pyplot : For plotting graphs and charts.
+seaborn : For statistical data visualization.
+
+🗣️ Natural Language Processing
+nltk: Natural Language Toolkit for text preprocessing.
+spacy : Industrial-strength NLP library.
+re : Regular expressions for text cleaning.
+gensim : For topic modeling and word embeddings.
+
+🧹 Text Preprocessing (Keras)
+Tokenizer : Converts text to sequences.
+pad_sequences : Pads sequences to equal length.
+
+🧪 Model Evaluation
+classification_report ,  confusion_matrix  from  sklearn.metrics
+
+
 
